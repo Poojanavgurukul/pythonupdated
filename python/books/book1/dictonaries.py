@@ -1,0 +1,21 @@
+person_details={
+    "person1":{
+    "firstname":"Pooja",
+    "lastname":"Saini",
+    "age":20,
+    "city":"Delhi",
+    },
+    "person2":{
+    "firstname":"Ankita",
+    "lastname":"Gole",
+    "age":18,
+    "city":"Delhi",
+    },
+    "person3":{
+    "firstname":"Gajal",
+    "lastname":"kumari",
+    "age":20,
+    "city":"Haryana",
+    }
+}
+print person_details
